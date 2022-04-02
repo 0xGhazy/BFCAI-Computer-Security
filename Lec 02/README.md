@@ -1,34 +1,25 @@
-# BFCAI-Computer-Security
+# Lecture 01: Ovewview
 
-
-
-<div align="center">
-
-[![Overview lecture](https://img.youtube.com/vi/z8Z0ngfty_M/0.jpg)](https://www.youtube.com/watch?v=z8Z0ngfty_M)
-
-Lecture 01
-</div>
+### Table of content
+- Youtube Video
+- Notes
+- References
 
 ---
-<br>
+
+
+# Youtube Video
 
 <div align="center">
 
 [![Overview lecture](https://img.youtube.com/vi/z8Z0ngfty_M/0.jpg)](https://www.youtube.com/watch?v=mFt_w19YaeA)
 
-lecture 02
 </div>
 
----
-<br>
-<div align="center">
+# Notes
+Nothing yet, come later you may find updates :)
 
-[![Overview lecture](https://img.youtube.com/vi/Q3h4BB9hSPE/0.jpg)](https://www.youtube.com/watch?v=Q3h4BB9hSPE)
 
-Lecture 03
-</div>
-
----
 # References
 - Lecture Slides
 - CISSP all-in-one exam guide 6th edition.
@@ -37,3 +28,11 @@ Lecture 03
 - CISCO End-to-End Network Security Defense-in-Depth
 - [Ubiqsecurity - 128 or 256 bit Encryption: Which Should I Use?](https://www.ubiqsecurity.com/ja-jp/blog/128bit-or-256bit-encryption-which-to-use/)
 ---
+
+<br>
+<div align="center">
+
+Youtube Channel: [Hossam Hamdy](https://www.youtube.com/channel/UCePX533CZyOpMyGGZqxJtAg) <br>
+LinkedIn: [Hossam Hamdy](https://www.linkedin.com/in/h0ssamhamdy/)<br>
+Blog: [0xGhazy](https://0xghazy.wordpress.com)
+</div>
