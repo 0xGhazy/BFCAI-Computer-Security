@@ -18,6 +18,7 @@
 
 # Notes
 Nothing yet, come later you may find updates :)
+- [Slides](https://drive.google.com/file/d/1BpH1vtFzGlx_Xp8I3ZLX9BdDSGFejvRs/view?usp=sharing)
 
 
 # References
