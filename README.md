@@ -29,6 +29,24 @@ Lecture 03
 </div>
 
 ---
+<br>
+<div align="center">
+
+[![Lecture 04 | Computer Security | BFCAI](https://img.youtube.com/vi/gBORfmi2HQI/0.jpg)](https://www.youtube.com/watch?v=gBORfmi2HQI)
+
+Lecture 04
+</div>
+
+---
+<br>
+<div align="center">
+
+[![Lecture 07 | Computer Security | BFCAI](https://img.youtube.com/vi/dYYAwC_Uzqk/0.jpg)](https://www.youtube.com/watch?v=dYYAwC_Uzqk)
+
+
+Lecture 07
+</div>
+---
 # References
 - Lecture Slides
 - CISSP all-in-one exam guide 6th edition.
